@@ -1,0 +1,299 @@
+elevation ,mindate    ,maxdate    ,latitude         ,name                                                  ,datacoverage ,id                ,elevationUnit ,longitude
+    125   ,1957-10-01 ,1975-08-01 ,37.86667         ,"ALAMO 1 N, CA US"                                    ,      0.9256 ,COOP:040064       ,METERS        ,-122.03333
+      3   ,1931-01-01 ,1942-04-01 ,37.6             ,"ALVARADO, CA US"                                     ,      1      ,COOP:040163       ,METERS        ,-122.11667
+     94.5 ,1919-01-01 ,2015-11-01 ,37.8744          ,"BERKELEY, CA US"                                     ,      0.9476 ,COOP:040693       ,METERS        ,-122.2605
+      3   ,1946-03-01 ,1978-06-01 ,37.58333         ,"BURLINGAME, CA US"                                   ,      0.9897 ,COOP:041206       ,METERS        ,-122.35
+    161.8 ,1956-09-01 ,1974-12-01 ,37.86667         ,"BURTON RANCH, CA US"                                 ,      0.9955 ,COOP:041216       ,METERS        ,-122.08333
+    307.8 ,1956-01-01 ,1958-06-12 ,37.93333         ,"CLAYTON 1 SW, CA US"                                 ,      0.0405 ,COOP:041786       ,METERS        ,-121.96667
+      6.1 ,1948-01-01 ,1950-03-01 ,37.98333         ,"CONCORD AIRPORT, CA US"                              ,      1      ,COOP:041960       ,METERS        ,-122.01667
+     78.9 ,1956-05-01 ,1957-04-01 ,37.95            ,"CONCORD 2 SE, CA US"                                 ,      0.9173 ,COOP:041961       ,METERS        ,-122
+     59.4 ,1956-04-01 ,1974-12-01 ,37.96667         ,"CONCORD 3 E, CA US"                                  ,      0.9999 ,COOP:041962       ,METERS        ,-121.98333
+      7   ,2000-09-01 ,2015-11-01 ,37.99165         ,"CONCORD BUCHANAN FIELD, CA US"                       ,      1      ,COOP:041964       ,METERS        ,-122.05268
+     34.1 ,1956-09-01 ,1958-06-12 ,37.96667         ,"CONCORD 1 SE, CA US"                                 ,      0.0333 ,COOP:041965       ,METERS        ,-122.01667
+     12.2 ,1991-09-01 ,2015-11-01 ,37.9833          ,"CONCORD WASTEWATER PLANT, CA US"                     ,      0.9932 ,COOP:041967       ,METERS        ,-122.0692
+     34.1 ,1956-01-01 ,1956-08-01 ,37.96667         ,"CONCORD 1 SE, CA US"                                 ,      0.036  ,COOP:042141       ,METERS        ,-122.01667
+      3   ,1918-01-01 ,1977-02-01 ,38.03333         ,"CROCKETT, CA US"                                     ,      1      ,COOP:042177       ,METERS        ,-122.21667
+      6.1 ,1955-11-01 ,1977-06-01 ,38.2             ,"DUTTONS LANDING, CA US"                              ,      1      ,COOP:042580       ,METERS        ,-122.3
+     49.1 ,1953-02-01 ,1953-04-01 ,37.5             ,"EL GRANADA, CA US"                                   ,      1      ,COOP:042731       ,METERS        ,-122.45
+     11.6 ,1996-06-01 ,2015-11-01 ,37.5422          ,"FREMONT, CA US"                                      ,      0.9872 ,COOP:043244       ,METERS        ,-122.0158
+    537.1 ,1943-07-01 ,1960-05-01 ,37.85            ,"ROUND TOP, CA US"                                    ,      0.9998 ,COOP:043652       ,METERS        ,-122.2
+      8.2 ,1939-07-01 ,2015-11-01 ,37.4725          ,"HALF MOON BAY, CA US"                                ,      0.976  ,COOP:043714       ,METERS        ,-122.4433
+      0.9 ,1934-02-01 ,1964-02-01 ,38.067           ,"HAMILTON ARMY AIR FIELD, CA US"                      ,      0.9974 ,COOP:043734       ,METERS        ,-122.5
+      3   ,1955-05-01 ,1959-08-01 ,38.05            ,"HAMILTON AFB 1 E, CA US"                             ,      0.9608 ,COOP:043735       ,METERS        ,-122.5
+    100.9 ,1956-01-01 ,1958-07-01 ,37.95            ,"HAVISIDE RANCH, CA US"                               ,      0.0392 ,COOP:043841       ,METERS        ,-122.1
+      9.6 ,2000-09-01 ,2015-11-01 ,37.65886         ,"HAYWARD AIR TERMINAL, CA US"                         ,      1      ,COOP:043861       ,METERS        ,-122.12116
+    161.5 ,1948-01-01 ,1988-06-01 ,37.66667         ,"HAYWARD 4 ESE, CA US"                                ,      1      ,COOP:043863       ,METERS        ,-122
+     44.2 ,1931-01-01 ,2015-11-01 ,37.9566          ,"KENTFIELD, CA US"                                    ,      0.9922 ,COOP:044500       ,METERS        ,-122.5447
+    164.9 ,1956-01-01 ,1977-06-01 ,37.91667         ,"LAFAYETTE 2 NNE, CA US"                              ,      1      ,COOP:044633       ,METERS        ,-122.1
+     88.1 ,1956-01-01 ,1958-06-12 ,37.88333         ,"LA FAYETTE FIRE STATION, CA US"                      ,      0.0491 ,COOP:044635       ,METERS        ,-122.11667
+    125   ,1956-01-01 ,1957-05-01 ,37.86667         ,"ALAMO 1 N, CA US"                                    ,      0.8242 ,COOP:045000       ,METERS        ,-122.03333
+     14.9 ,1961-01-01 ,1975-12-01 ,38.100278        ,"MARE ISLAND, CA US"                                  ,      1      ,COOP:045333       ,METERS        ,-122.268611
+     70.1 ,1948-01-01 ,2005-09-30 ,37.97            ,"MARTINEZ 2 S, CA US"                                 ,      1      ,COOP:045371       ,METERS        ,-122.1275
+     78.9 ,1956-01-01 ,1975-09-01 ,37.96667         ,"MARTINEZ 3 SSE, CA US"                               ,      1      ,COOP:045372       ,METERS        ,-122.1
+      7.9 ,1897-01-01 ,1969-12-01 ,38.01667         ,"MARTINEZ, CA US"                                     ,      0.4098 ,COOP:045377       ,METERS        ,-122.13333
+     12.2 ,1970-01-01 ,2015-11-01 ,38.0131          ,"MARTINEZ WATER PLANT, CA US"                         ,      1      ,COOP:045378       ,METERS        ,-122.1142
+    661.4 ,1952-04-01 ,2015-11-01 ,37.8792          ,"MOUNT DIABLO JUNCTION, CA US"                        ,      0.9922 ,COOP:045915       ,METERS        ,-121.9303
+    488   ,1956-01-01 ,1958-06-12 ,37.85            ,"MOUNT DIABLO STATE P, CA US"                         ,      0.0503 ,COOP:045916       ,METERS        ,-121.93333
+    446.5 ,1948-01-01 ,1959-07-01 ,37.9027          ,"MOUNT TAMALPAIS 2 SW, CA US"                         ,      1      ,COOP:045995       ,METERS        ,-122.6033
+    446.5 ,1959-06-01 ,2014-01-01 ,37.9027          ,"MOUNT TAMALPAIS 2 SW, CA US"                         ,      0.0315 ,COOP:045996       ,METERS        ,-122.6033
+     67.1 ,1940-12-01 ,2015-11-01 ,37.8977          ,"MUIR WOODS, CA US"                                   ,      0.9811 ,COOP:046027       ,METERS        ,-122.5688
+      4.7 ,2000-09-01 ,2015-11-01 ,38.2075          ,"NAPA CO AIRPORT, CA US"                              ,      1      ,COOP:046066       ,METERS        ,-122.28041
+      3   ,1942-04-01 ,2015-11-01 ,37.5147          ,"NEWARK, CA US"                                       ,      0.9842 ,COOP:046144       ,METERS        ,-122.0325
+    121.9 ,1948-01-01 ,1996-12-01 ,38.13333         ,"NOVATO 8 WNW, CA US"                                 ,      0.7559 ,COOP:046290       ,METERS        ,-122.71667
+    134.1 ,1931-01-01 ,1958-07-01 ,37.78333         ,"OAKLAND, CA US"                                      ,      0.994  ,COOP:046332       ,METERS        ,-122.16667
+     10.7 ,1949-05-01 ,1954-10-01 ,37.8             ,"OAKLAND CITY HALL, CA US"                            ,      0.8783 ,COOP:046333       ,METERS        ,-122.26667
+      1.5 ,1931-01-01 ,1986-08-01 ,37.7178          ,"OAKLAND INTERNATIONAL AIRPORT, CA US"                ,      0.9551 ,COOP:046335       ,METERS        ,-122.23301
+      9.1 ,1970-10-01 ,2015-11-01 ,37.7983          ,"OAKLAND MUSEUM, CA US"                               ,      0.9686 ,COOP:046336       ,METERS        ,-122.2642
+    167.9 ,1944-08-01 ,1960-06-01 ,37.86667         ,"ORINDA BOWMAN, CA US"                                ,      1      ,COOP:046502       ,METERS        ,-122.16667
+     38.1 ,2000-11-01 ,2009-05-01 ,37.61028         ,"PACIFICA 2 S, CA US"                                 ,      0.9906 ,COOP:046598       ,METERS        ,-122.48417
+    144.8 ,1983-11-01 ,2012-12-01 ,37.59167         ,"PACIFICA 4 SSE, CA US"                               ,      0.9913 ,COOP:046599       ,METERS        ,-122.47167
+     18   ,1931-01-01 ,1953-08-29 ,37.43333         ,"PALO ALTO, CA US"                                    ,      1      ,COOP:046642       ,METERS        ,-122.16667
+      7.6 ,1953-09-01 ,2015-11-01 ,37.4436          ,"PALO ALTO, CA US"                                    ,      0.9719 ,COOP:046646       ,METERS        ,-122.1402
+     18   ,1956-01-01 ,1958-06-12 ,37.95            ,"PLEASANT HILL 1 NW, CA US"                           ,      0.0339 ,COOP:046982       ,METERS        ,-122.08333
+      9.1 ,1931-01-01 ,1936-04-01 ,38.06667         ,"POINT REYES STATION, CA US"                          ,      1      ,COOP:047028       ,METERS        ,-122.8
+     14.9 ,1946-05-01 ,1975-09-01 ,38.01667         ,"PORT CHICAGO NAVAL D, CA US"                         ,      0.9999 ,COOP:047070       ,METERS        ,-122.01667
+      9.4 ,1931-01-01 ,2015-11-01 ,37.4767          ,"REDWOOD CITY, CA US"                                 ,      0.9784 ,COOP:047339       ,METERS        ,-122.2386
+      6.1 ,1950-12-01 ,2015-11-01 ,37.9191          ,"RICHMOND, CA US"                                     ,      0.9846 ,COOP:047414       ,METERS        ,-122.3772
+      3   ,1955-08-01 ,1959-09-01 ,37.91667         ,"RICHMOND FIELD STATION, CA US"                       ,      0.9999 ,COOP:047416       ,METERS        ,-122.33333
+    189   ,1942-12-01 ,1981-07-01 ,37.83333         ,"SAINT MARYS COLLEGE, CA US"                          ,      1      ,COOP:047661       ,METERS        ,-122.1
+     75.9 ,1951-08-01 ,1957-07-14 ,37.76667         ,"SAN FRANCISCO CALIFORNIA ACADEMY OF SCIENCES, CA US" ,      0.9998 ,COOP:047765       ,METERS        ,-122.46667
+      2.4 ,1948-06-01 ,2015-11-01 ,37.728           ,"SAN FRANCISCO OCEANSIDE, CA US"                      ,      0.8086 ,COOP:047767       ,METERS        ,-122.5052
+      3.2 ,1948-01-01 ,2015-11-01 ,37.61962         ,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US"          ,      1      ,COOP:047769       ,METERS        ,-122.36562
+     45.7 ,1948-07-01 ,2015-11-01 ,37.7705          ,"SAN FRANCISCO DOWNTOWN, CA US"                       ,      1      ,COOP:047772       ,METERS        ,-122.4269
+      6.1 ,1934-07-01 ,1978-12-01 ,37.53333         ,"SAN MATEO, CA US"                                    ,      0.9887 ,COOP:047864       ,METERS        ,-122.3
+     36.6 ,1947-03-01 ,2015-11-01 ,37.9983          ,"SAN RAFAEL CIVIC CENTER, CA US"                      ,      0.9285 ,COOP:047880       ,METERS        ,-122.5372
+    171   ,1956-01-01 ,1958-06-12 ,37.76667         ,"SAN RAMON 1 SSW, CA US"                              ,      0.0454 ,COOP:047882       ,METERS        ,-121.98333
+    107   ,1931-01-01 ,1972-12-01 ,37.4             ,"SEARSVILLE LAKE, CA US"                              ,      0.9841 ,COOP:048068       ,METERS        ,-122.23333
+    120.1 ,1948-01-01 ,2015-11-01 ,37.7719          ,"UPPER SAN LEANDRO FILTERS, CA US"                    ,      0.8859 ,COOP:049185       ,METERS        ,-122.1675
+    103.9 ,1998-02-01 ,2015-11-01 ,38.1             ,"VALLEJO, CA US"                                      ,      0.5048 ,COOP:049219       ,METERS        ,-122.1869
+     36.9 ,1956-09-01 ,1973-09-01 ,37.95            ,"WALMAR SCHOOL, CA US"                                ,      0.9416 ,COOP:049420       ,METERS        ,-122.08333
+     74.7 ,1931-01-01 ,1974-09-01 ,37.88333         ,"WALNUT CREEK 2 ESE, CA US"                           ,      0.9753 ,COOP:049423       ,METERS        ,-122.03333
+     67.1 ,1948-01-01 ,1983-12-01 ,37.9             ,"WALNUT CREEK 2 ENE, CA US"                           ,      0.956  ,COOP:049426       ,METERS        ,-122.01667
+    121.9 ,1956-01-01 ,1977-06-01 ,37.9             ,"WALNUT CREEK 4 E, CA US"                             ,      1      ,COOP:049427       ,METERS        ,-121.98333
+    115.8 ,1973-01-01 ,2015-11-01 ,37.4286          ,"WOODSIDE FIRE STATION 1, CA US"                      ,      0.9127 ,COOP:049792       ,METERS        ,-122.2561
+    113.4 ,2008-10-01 ,2024-06-02 ,37.8123          ,"PIEDMONT 1.0 SE, CA US"                              ,      1      ,GHCND:US1CAAL0001 ,METERS        ,-122.216
+     87.5 ,2008-11-01 ,2012-02-09 ,37.707518        ,"CASTRO VALLEY 0.5 WSW, CA US"                        ,      0.8761 ,GHCND:US1CAAL0002 ,METERS        ,-122.068694
+    163.4 ,2009-06-01 ,2024-06-12 ,37.716904        ,"CASTRO VALLEY 0.4 NNE, CA US"                        ,      0.9756 ,GHCND:US1CAAL0003 ,METERS        ,-122.058526
+    107   ,2008-07-01 ,2024-06-11 ,37.648266        ,"PLEASANTON 1.8 SSE, CA US"                           ,      0.9999 ,GHCND:US1CAAL0004 ,METERS        ,-121.874518
+     58.2 ,2010-01-01 ,2024-05-05 ,37.831944        ,"OAKLAND 4.4 NNW, CA US"                              ,      0.7203 ,GHCND:US1CAAL0006 ,METERS        ,-122.250278
+      9.1 ,2010-01-01 ,2018-04-29 ,37.515049        ,"FREMONT 2.6 ESE, CA US"                              ,      1      ,GHCND:US1CAAL0007 ,METERS        ,-121.952305
+    268.8 ,2010-02-01 ,2013-05-04 ,37.855675        ,"BERKELEY 3.8 ESE, CA US"                             ,      1      ,GHCND:US1CAAL0008 ,METERS        ,-122.230053
+      9.1 ,2010-12-01 ,2023-03-15 ,37.682092        ,"SAN LORENZO 0.5 NNW, CA US"                          ,      1      ,GHCND:US1CAAL0011 ,METERS        ,-122.133229
+    104.9 ,2011-01-01 ,2024-05-05 ,37.6702          ,"PLEASANTON 0.4 ESE, CA US"                           ,      1      ,GHCND:US1CAAL0012 ,METERS        ,-121.8814
+     39.3 ,2013-03-01 ,2015-05-21 ,37.781663        ,"OAKLAND 1.0 NE, CA US"                               ,      0.7776 ,GHCND:US1CAAL0015 ,METERS        ,-122.212436
+    120.4 ,1998-06-01 ,2016-03-12 ,37.7643890380859 ,"OAKLAND 7.8 SE, CA US"                               ,      0.8665 ,GHCND:US1CAAL0016 ,METERS        ,-122.138633728027
+    399.9 ,2013-05-01 ,2015-11-01 ,37.841371        ,"OAKLAND 5.0 NNE, CA US"                              ,      1      ,GHCND:US1CAAL0017 ,METERS        ,-122.197782
+    349.9 ,2013-05-01 ,2020-03-04 ,37.857468        ,"BERKELEY 4.0 E, CA US"                               ,      0.9995 ,GHCND:US1CAAL0018 ,METERS        ,-122.225616
+     27.1 ,2014-01-01 ,2015-12-19 ,37.8776359558105 ,"BERKELEY 0.9 NE, CA US"                              ,      1      ,GHCND:US1CAAL0020 ,METERS        ,-122.287490844727
+      9.8 ,2014-01-01 ,2016-01-22 ,37.5130157470703 ,"FREMONT 1.9 SE, CA US"                               ,      1      ,GHCND:US1CAAL0022 ,METERS        ,-121.96907043457
+     31.1 ,2014-12-18 ,2024-05-05 ,37.571972        ,"FREMONT 3.7 NE, CA US"                               ,      0.9819 ,GHCND:US1CAAL0024 ,METERS        ,-121.95903
+     16.8 ,2015-02-01 ,2024-06-12 ,37.89471         ,"ALBANY 1.7 E, CA US"                                 ,      1      ,GHCND:US1CAAL0025 ,METERS        ,-122.29646
+     35.4 ,2015-12-10 ,2024-06-12 ,37.7778          ,"OAKLAND 1.2 ENE, CA US"                              ,      0.9505 ,GHCND:US1CAAL0030 ,METERS        ,-122.2032
+     25.3 ,2016-01-09 ,2018-04-17 ,37.568491        ,"FREMONT 3.3 NNE, CA US"                              ,      0.7878 ,GHCND:US1CAAL0031 ,METERS        ,-121.965445
+      9.1 ,2016-01-23 ,2019-11-27 ,37.526946        ,"NEWARK 1.2 ENE, CA US"                               ,      1      ,GHCND:US1CAAL0032 ,METERS        ,-122.010374
+     46.9 ,2016-03-20 ,2018-06-27 ,37.688919        ,"CASTRO VALLEY 2.0 SW, CA US"                         ,      0.812  ,GHCND:US1CAAL0033 ,METERS        ,-122.085746
+     36.6 ,2019-09-16 ,2024-06-10 ,37.877502        ,"BERKELEY 1.1 NE, CA US"                              ,      1      ,GHCND:US1CAAL0034 ,METERS        ,-122.281264
+    106.1 ,2016-05-19 ,2018-10-04 ,37.700452        ,"PLEASANTON 2.3 NNE, CA US"                           ,      0.4612 ,GHCND:US1CAAL0035 ,METERS        ,-121.865461
+     13.7 ,2017-07-01 ,2024-05-04 ,37.8552          ,"BERKELEY 0.9 SSE, CA US"                             ,      0.444  ,GHCND:US1CAAL0039 ,METERS        ,-122.28923
+   2888.9 ,2018-12-06 ,2020-07-03 ,37.840233        ,"OAKLAND 4.9 NNE, CA US"                              ,      0.5868 ,GHCND:US1CAAL0045 ,METERS        ,-122.20265
+     21.9 ,2020-04-11 ,2024-05-05 ,37.893465        ,"ALBANY 1.8 E, CA US"                                 ,      0.8177 ,GHCND:US1CAAL0050 ,METERS        ,-122.29361
+     37.5 ,2020-04-01 ,2024-06-08 ,37.794116        ,"OAKLAND 1.7 NNW, CA US"                              ,      0.9142 ,GHCND:US1CAAL0052 ,METERS        ,-122.236439
+     67.1 ,2020-11-01 ,2022-11-09 ,37.84757         ,"OAKLAND 5.4 NNW, CA US"                              ,      0.9925 ,GHCND:US1CAAL0053 ,METERS        ,-122.247612
+    101.5 ,2022-03-01 ,2024-06-12 ,37.886728        ,"BERKELEY 2.0 NE, CA US"                              ,      0.8754 ,GHCND:US1CAAL0060 ,METERS        ,-122.26993
+     76.8 ,2008-10-01 ,2024-06-11 ,37.989778        ,"MARTINEZ 0.8 SSE, CA US"                             ,      1      ,GHCND:US1CACC0001 ,METERS        ,-122.108496
+     17.4 ,2008-11-01 ,2012-12-22 ,37.948539        ,"PLEASANT HILL 1.2 ESE, CA US"                        ,      0.9999 ,GHCND:US1CACC0003 ,METERS        ,-122.054108
+     74.1 ,2009-02-01 ,2024-06-11 ,37.87832         ,"WALNUT CREEK 1.7 SSE, CA US"                         ,      0.9774 ,GHCND:US1CACC0004 ,METERS        ,-122.033766
+     75.6 ,2009-01-01 ,2024-06-10 ,37.893714        ,"LAFAYETTE 0.7 E, CA US"                              ,      0.8279 ,GHCND:US1CACC0006 ,METERS        ,-122.104351
+    250.5 ,2009-03-01 ,2012-12-26 ,37.908976        ,"LAFAYETTE 2.3 WNW, CA US"                            ,      0.3039 ,GHCND:US1CACC0007 ,METERS        ,-122.15472
+     64.9 ,2009-02-01 ,2012-12-22 ,38.05446         ,"CROCKETT 0.7 WNW, CA US"                             ,      0.7237 ,GHCND:US1CACC0008 ,METERS        ,-122.232718
+    157.9 ,2009-03-01 ,2024-05-05 ,37.888325        ,"LAFAYETTE 1.9 WSW, CA US"                            ,      0.9997 ,GHCND:US1CACC0010 ,METERS        ,-122.15264
+    210.9 ,2009-03-01 ,2024-06-12 ,37.974401        ,"MARTINEZ 2.2 SW, CA US"                              ,      0.9997 ,GHCND:US1CACC0011 ,METERS        ,-122.13837
+    100.9 ,2009-10-01 ,2014-02-10 ,37.853774        ,"ALAMO 1.0 WSW, CA US"                                ,      0.6609 ,GHCND:US1CACC0014 ,METERS        ,-122.015692
+     37.8 ,2009-01-01 ,2020-09-17 ,37.978325        ,"CONCORD 0.8 WNW, CA US"                              ,      0.9365 ,GHCND:US1CACC0016 ,METERS        ,-122.013418
+     84.4 ,2009-12-01 ,2024-06-04 ,37.884602        ,"WALNUT CREEK 1.4 SSE, CA US"                         ,      1      ,GHCND:US1CACC0018 ,METERS        ,-122.028472
+     47.5 ,2009-12-01 ,2020-11-18 ,37.915959        ,"WALNUT CREEK 1.4 NE, CA US"                          ,      0.9819 ,GHCND:US1CACC0019 ,METERS        ,-122.023194
+    228   ,1998-06-17 ,2024-05-25 ,37.8698081970215 ,"MORAGA 2.4 NNW, CA US"                               ,      0.9991 ,GHCND:US1CACC0025 ,METERS        ,-122.138412475586
+     13.1 ,2014-01-01 ,2019-09-27 ,37.9587728530169 ,"PLEASANT HILL 1.1 ENE, CA US"                        ,      1      ,GHCND:US1CACC0027 ,METERS        ,-122.055598944426
+     78.6 ,2013-09-01 ,2023-01-25 ,37.936324        ,"EL CERRITO 1.3 NW, CA US"                            ,      1      ,GHCND:US1CACC0028 ,METERS        ,-122.3157
+     76.8 ,2014-09-01 ,2024-06-12 ,37.8911          ,"WALNUT CREEK 2.3 WSW, CA US"                         ,      1      ,GHCND:US1CACC0031 ,METERS        ,-122.0811
+    125.6 ,2015-12-11 ,2017-04-26 ,37.7334747314453 ,"SAN RAMON 1.7 SSE, CA US"                            ,      0.2704 ,GHCND:US1CACC0033 ,METERS        ,-121.943168640137
+     29.9 ,2015-04-06 ,2019-02-27 ,37.913263        ,"RICHMOND 3.6 SE, CA US"                              ,      0.9819 ,GHCND:US1CACC0035 ,METERS        ,-122.316188
+     81.4 ,2017-08-11 ,2024-06-09 ,37.95328         ,"CONCORD 2.1 SE, CA US"                               ,      0.9872 ,GHCND:US1CACC0037 ,METERS        ,-121.97117
+     41.8 ,2017-11-26 ,2024-06-12 ,37.922559        ,"EL CERRITO 0.3 WNW, CA US"                           ,      0.9995 ,GHCND:US1CACC0040 ,METERS        ,-122.306846
+     52.7 ,2018-02-14 ,2019-12-14 ,37.973714        ,"CONCORD 0.4 E, CA US"                                ,      0.997  ,GHCND:US1CACC0041 ,METERS        ,-121.992586
+    147.2 ,2020-01-01 ,2021-01-10 ,37.784172        ,"DANVILLE 2.1 S, CA US"                               ,      0.998  ,GHCND:US1CACC0043 ,METERS        ,-121.969249
+    135.6 ,2020-05-26 ,2024-05-29 ,37.817697        ,"DANVILLE 1.9 W, CA US"                               ,      0.8703 ,GHCND:US1CACC0045 ,METERS        ,-122.006
+     43.6 ,2009-01-04 ,2024-06-11 ,37.981586        ,"CONCORD 0.6 N, CA US"                                ,      0.9783 ,GHCND:US1CACC0046 ,METERS        ,-121.998619
+     98.5 ,2020-11-14 ,2021-09-20 ,37.9536026       ,"LAFAYETTE 4.2 NNE, CA US"                            ,      0.9998 ,GHCND:US1CACC0047 ,METERS        ,-122.1018924
+     17.4 ,2019-08-21 ,2024-05-05 ,38.018           ,"PITTSBURG 0.7 W, CA US"                              ,      0.4196 ,GHCND:US1CACC0050 ,METERS        ,-121.9032
+     43.9 ,2022-11-07 ,2024-06-12 ,37.962879        ,"EL SOBRANTE 1.6 SW, CA US"                           ,      0.7055 ,GHCND:US1CACC0052 ,METERS        ,-122.315832
+     46.6 ,2022-11-01 ,2024-06-12 ,37.954801        ,"EL SOBRANTE 1.8 SE, CA US"                           ,      0.9202 ,GHCND:US1CACC0053 ,METERS        ,-122.274138
+     90.2 ,1998-06-01 ,2011-04-25 ,38.076648        ,"NOVATO 1.1 SSW, CA US"                               ,      0.2722 ,GHCND:US1CAMR0001 ,METERS        ,-122.564333
+    133.8 ,2008-10-01 ,2023-06-07 ,38.005033        ,"WOODACRE 0.6 SW, CA US"                              ,      0.9335 ,GHCND:US1CAMR0002 ,METERS        ,-122.635413
+    112.8 ,2008-10-01 ,2016-05-31 ,37.99706         ,"SAN ANSELMO 1.2 NNW, CA US"                          ,      1      ,GHCND:US1CAMR0003 ,METERS        ,-122.580474
+     75   ,2008-10-01 ,2023-01-19 ,38.105982        ,"NOVATO 4.8 WNW, CA US"                               ,      1      ,GHCND:US1CAMR0004 ,METERS        ,-122.644146
+     32.6 ,2008-10-01 ,2024-06-12 ,37.987227        ,"SAN ANSELMO 0.4 NE, CA US"                           ,      1      ,GHCND:US1CAMR0005 ,METERS        ,-122.564274
+     17.4 ,2008-11-01 ,2020-01-12 ,38.065244        ,"IGNACIO 0.6 SW, CA US"                               ,      0.8205 ,GHCND:US1CAMR0007 ,METERS        ,-122.54649
+      7   ,2009-01-01 ,2016-12-15 ,38.1021          ,"NOVATO 1.4 WNW, CA US"                               ,      0.8919 ,GHCND:US1CAMR0008 ,METERS        ,-122.5799
+     21.9 ,2010-01-01 ,2015-09-17 ,38.0268          ,"SAN RAFAEL 3.9 NW, CA US"                            ,      1      ,GHCND:US1CAMR0012 ,METERS        ,-122.5473
+     63.7 ,2010-10-01 ,2024-06-12 ,37.8862949       ,"MILL VALLEY 1.5 S, CA US"                            ,      0.9999 ,GHCND:US1CAMR0013 ,METERS        ,-122.544044
+     56.4 ,2011-03-01 ,2018-05-01 ,38.026802        ,"LUCAS VALLEY 0.7 SSW, CA US"                         ,      0.3932 ,GHCND:US1CAMR0015 ,METERS        ,-122.571355
+     48.5 ,2012-11-01 ,2024-06-08 ,37.8593483       ,"SAUSALITO 0.3 WNW, CA US"                            ,      0.9697 ,GHCND:US1CAMR0016 ,METERS        ,-122.49739075
+     44.5 ,2013-01-01 ,2017-06-14 ,37.98098         ,"FAIRFAX 0.6 SSE, CA US"                              ,      1      ,GHCND:US1CAMR0018 ,METERS        ,-122.590744
+      2.7 ,2014-10-01 ,2017-04-11 ,37.940085        ,"LARKSPUR 0.3 WSW, CA US"                             ,      0.9442 ,GHCND:US1CAMR0021 ,METERS        ,-122.534727
+     50.6 ,2014-11-01 ,2024-06-10 ,38.019905        ,"SAN RAFAEL 4.6 NW, CA US"                            ,      1      ,GHCND:US1CAMR0024 ,METERS        ,-122.574226
+     62.2 ,2013-09-01 ,2024-06-12 ,38.009588        ,"SAN ANSELMO 2.0 NNW, CA US"                          ,      1      ,GHCND:US1CAMR0025 ,METERS        ,-122.580088
+     69.5 ,2014-10-01 ,2024-06-12 ,38.078986        ,"NOVATO 1.2 SW, CA US"                                ,      0.9998 ,GHCND:US1CAMR0026 ,METERS        ,-122.569824
+     25.6 ,2014-11-01 ,2015-07-25 ,37.90564         ,"MILL VALLEY 0.2 SE, CA US"                           ,      1      ,GHCND:US1CAMR0027 ,METERS        ,-122.537544
+     59.4 ,2014-10-01 ,2021-04-17 ,38.040974        ,"SAN RAFAEL 4.6 NNW, CA US"                           ,      0.9998 ,GHCND:US1CAMR0029 ,METERS        ,-122.54301
+     57.9 ,2014-11-01 ,2024-06-11 ,37.905926        ,"BOLINAS 0.2 W, CA US"                                ,      1      ,GHCND:US1CAMR0030 ,METERS        ,-122.70089
+     82   ,2014-11-01 ,2024-02-15 ,38.0127          ,"LAGUNITAS FOREST KNOLLS 0.2 SSE, CA US"              ,      1      ,GHCND:US1CAMR0031 ,METERS        ,-122.6862
+      4.6 ,2014-11-01 ,2024-06-11 ,38.004735        ,"SAN RAFAEL 1.9 NNW, CA US"                           ,      1      ,GHCND:US1CAMR0032 ,METERS        ,-122.523977
+          ,2014-10-01 ,2015-10-16 ,38.00909         ,"LAGUNITAS FOREST KNOLLS 0.4 S, CA US"                ,      0.9992 ,GHCND:US1CAMR0034 ,              ,-122.68828
+      3.7 ,2014-11-01 ,2022-06-05 ,38.097565        ,"NOVATO 0.7 WNW, CA US"                               ,      1      ,GHCND:US1CAMR0035 ,METERS        ,-122.567627
+     23.2 ,2014-12-01 ,2020-09-04 ,38.110443        ,"NOVATO 2.7 WNW, CA US"                               ,      1      ,GHCND:US1CAMR0037 ,METERS        ,-122.600006
+     17.4 ,2015-02-01 ,2023-11-14 ,37.874391        ,"MILL VALLEY 2.5 SSE, CA US"                          ,      0.931  ,GHCND:US1CAMR0038 ,METERS        ,-122.525649
+     59.7 ,2015-04-06 ,2024-05-05 ,37.999           ,"FAIRFAX 0.7 N, CA US"                                ,      0.1585 ,GHCND:US1CAMR0040 ,METERS        ,-122.593566
+     38.4 ,2015-11-02 ,2017-11-08 ,37.984977722168  ,"SAN RAFAEL 2.5 W, CA US"                             ,      0.1667 ,GHCND:US1CAMR0042 ,METERS        ,-122.550964355469
+     73.2 ,2016-01-28 ,2024-05-05 ,37.877262        ,"MILL VALLEY 2.1 S, CA US"                            ,      0.1208 ,GHCND:US1CAMR0045 ,METERS        ,-122.540868
+     34.1 ,2017-11-15 ,2024-05-05 ,38.01087         ,"SAN RAFAEL 3.7 WNW, CA US"                           ,      0.1739 ,GHCND:US1CAMR0049 ,METERS        ,-122.56344
+     29.6 ,2019-12-01 ,2024-05-06 ,37.912135        ,"CORTE MADERA 0.8 SSE, CA US"                         ,      0.1884 ,GHCND:US1CAMR0053 ,METERS        ,-122.502449
+     45.1 ,2020-03-29 ,2024-04-14 ,37.932461        ,"LARKSPUR 1.0 SW, CA US"                              ,      0.1982 ,GHCND:US1CAMR0054 ,METERS        ,-122.543884
+     35.4 ,2020-11-14 ,2023-06-07 ,38.058131        ,"NOVATO 2.7 SSE, CA US"                               ,      0.6592 ,GHCND:US1CAMR0055 ,METERS        ,-122.534103
+     64.9 ,2021-10-25 ,2024-05-20 ,37.97792         ,"FAIRFAX 1.3 SW, CA US"                               ,      0.804  ,GHCND:US1CAMR0058 ,METERS        ,-122.612764
+     36.6 ,2022-09-18 ,2024-06-12 ,37.99414         ,"SAN RAFAEL 1.4 NW, CA US"                            ,      0.7776 ,GHCND:US1CAMR0060 ,METERS        ,-122.52531
+     97.2 ,2009-03-01 ,2014-04-27 ,38.210167        ,"AMERICAN CANYON 3.5 NE, CA US"                       ,      0.4839 ,GHCND:US1CANP0006 ,METERS        ,-122.217156
+     11.3 ,2010-01-01 ,2017-06-12 ,38.169395        ,"AMERICAN CANYON 0.3 S, CA US"                        ,      0.8136 ,GHCND:US1CANP0008 ,METERS        ,-122.260479
+      8.8 ,2008-11-01 ,2010-11-22 ,37.418984        ,"PALO ALTO 1.7 NE, CA US"                             ,      0.9267 ,GHCND:US1CASC0014 ,METERS        ,-122.121377
+      9.8 ,2008-11-01 ,2017-04-20 ,37.451555        ,"PALO ALTO 1.2 NE, CA US"                             ,      1      ,GHCND:US1CASC0017 ,METERS        ,-122.148628
+     18.3 ,2009-09-01 ,2013-04-04 ,37.4098          ,"PALO ALTO 0.8 NNE, CA US"                            ,      0.8872 ,GHCND:US1CASC0028 ,METERS        ,-122.134787
+     52.7 ,2009-01-01 ,2016-08-08 ,37.7834          ,"SAN FRANCISCO 2.8 WNW, CA US"                        ,      0.9544 ,GHCND:US1CASF0003 ,METERS        ,-122.4701
+     59.1 ,2009-02-01 ,2023-09-30 ,37.765001        ,"SAN FRANCISCO 1.1 SW, CA US"                         ,      1      ,GHCND:US1CASF0004 ,METERS        ,-122.434753
+     62.5 ,2012-12-01 ,2017-01-28 ,37.7776031494141 ,"SAN FRANCISCO 3.0 W, CA US"                          ,      1      ,GHCND:US1CASF0008 ,METERS        ,-122.474098205566
+     11.6 ,2018-01-08 ,2023-03-14 ,37.759816        ,"SAN FRANCISCO 4.9 WSW, CA US"                        ,      0.0809 ,GHCND:US1CASF0014 ,METERS        ,-122.506523
+     65.5 ,1998-10-09 ,2024-06-12 ,37.75901         ,"SAN FRANCISCO 1.6 SE, CA US"                         ,      1      ,GHCND:US1CASF0017 ,METERS        ,-122.3975
+     50.6 ,2021-01-18 ,2024-06-12 ,37.77812         ,"SAN FRANCISCO 3.1 W, CA US"                          ,      0.7673 ,GHCND:US1CASF0020 ,METERS        ,-122.476323
+     43   ,2021-08-30 ,2024-06-12 ,37.7272106       ,"SAN FRANCISCO 3.4 S, CA US"                          ,      0.6955 ,GHCND:US1CASF0021 ,METERS        ,-122.4095981
+     69.2 ,2008-06-01 ,2024-05-25 ,37.612115        ,"PACIFICA 0.3 W, CA US"                               ,      1      ,GHCND:US1CASM0001 ,METERS        ,-122.48254
+    103.3 ,2008-10-01 ,2010-03-03 ,37.420419        ,"HALF MOON BAY 4.1 SE, CA US"                         ,      0.9819 ,GHCND:US1CASM0002 ,METERS        ,-122.394508
+      7.6 ,2009-05-01 ,2024-06-11 ,37.476568        ,"MENLO PARK 2.4 W, CA US"                             ,      0.6667 ,GHCND:US1CASM0005 ,METERS        ,-122.187052
+      2.1 ,2008-11-01 ,2024-06-11 ,37.54883         ,"FOSTER CITY 1.3 SW, CA US"                           ,      1      ,GHCND:US1CASM0006 ,METERS        ,-122.2587
+     16.5 ,2008-12-01 ,2023-05-27 ,37.463           ,"HALF MOON BAY 0.5 SSW, CA US"                        ,      1      ,GHCND:US1CASM0007 ,METERS        ,-122.4408
+      5.2 ,2009-03-01 ,2020-04-07 ,37.493111        ,"REDWOOD CITY 2.5 SW, CA US"                          ,      0.9879 ,GHCND:US1CASM0008 ,METERS        ,-122.239927
+    161.8 ,2009-04-01 ,2024-05-05 ,37.381892        ,"PORTOLA VALLEY 1.3 ENE, CA US"                       ,      0.8928 ,GHCND:US1CASM0009 ,METERS        ,-122.197612
+    136.2 ,2010-12-01 ,2024-05-26 ,37.5841909       ,"BURLINGAME 2.0 WSW, CA US"                           ,      0.6719 ,GHCND:US1CASM0013 ,METERS        ,-122.397615
+    146.9 ,2011-01-01 ,2014-02-23 ,37.510408        ,"BELMONT 0.7 WSW, CA US"                              ,      1      ,GHCND:US1CASM0014 ,METERS        ,-122.305704
+    178.3 ,2012-04-01 ,2022-03-04 ,37.518482208252  ,"SAN MATEO 3.4 SSW, CA US"                            ,      1      ,GHCND:US1CASM0015 ,METERS        ,-122.343238830566
+     11   ,2003-11-01 ,2022-07-17 ,37.477715        ,"HALF MOON BAY 0.7 NW, CA US"                         ,      0.8438 ,GHCND:US1CASM0016 ,METERS        ,-122.445426
+     34.7 ,2013-02-01 ,2019-05-20 ,37.550354        ,"SAN MATEO 1.2 SW, CA US"                             ,      0.8169 ,GHCND:US1CASM0017 ,METERS        ,-122.329503
+     23.8 ,2013-02-01 ,2022-05-07 ,37.5085          ,"EL GRANADA 0.7 W, CA US"                             ,      1      ,GHCND:US1CASM0018 ,METERS        ,-122.47895
+     19.8 ,2013-04-01 ,2024-06-11 ,37.455023        ,"HALF MOON BAY 1.0 S, CA US"                          ,      0.9998 ,GHCND:US1CASM0019 ,METERS        ,-122.438296
+    485.2 ,2009-02-01 ,2024-05-25 ,37.3753814697266 ,"WOODSIDE 3.4 S, CA US"                               ,      0.989  ,GHCND:US1CASM0022 ,METERS        ,-122.263740539551
+      9.4 ,2014-11-01 ,2024-05-05 ,37.474413        ,"REDWOOD CITY 3.3 SSW, CA US"                         ,      0.9819 ,GHCND:US1CASM0025 ,METERS        ,-122.23373
+      1.5 ,2015-11-01 ,2020-01-11 ,37.568428        ,"SAN MATEO 0.8 NE, CA US"                             ,      1      ,GHCND:US1CASM0032 ,METERS        ,-122.30121
+     90.5 ,2015-12-25 ,2024-05-05 ,37.583784        ,"PACIFICA 1.9 S, CA US"                               ,      0.4887 ,GHCND:US1CASM0033 ,METERS        ,-122.479214
+      4.6 ,2017-01-21 ,2020-06-20 ,37.463695        ,"EAST PALO ALTO 0.3 WSW, CA US"                       ,      0.9198 ,GHCND:US1CASM0034 ,METERS        ,-122.137153
+    605.3 ,2017-03-04 ,2023-12-20 ,37.4532          ,"WOODSIDE 4.9 WNW, CA US"                             ,      1      ,GHCND:US1CASM0037 ,METERS        ,-122.341
+     31.1 ,2019-03-31 ,2024-06-06 ,37.4995974834295 ,"SAN CARLOS 0.2 NW, CA US"                            ,      0.9995 ,GHCND:US1CASM0038 ,METERS        ,-122.26890563
+     21.6 ,2020-03-19 ,2024-05-04 ,37.585015        ,"BURLINGAME 0.8 WSW, CA US"                           ,      0.4231 ,GHCND:US1CASM0039 ,METERS        ,-122.376263
+    127.7 ,2020-11-26 ,2023-12-14 ,37.517204        ,"BELMONT 0.2 NW, CA US"                               ,      1      ,GHCND:US1CASM0042 ,METERS        ,-122.298205
+     43   ,2021-10-18 ,2024-06-12 ,37.5071131       ,"EL GRANADA 0.4 WSW, CA US"                           ,      0.9986 ,GHCND:US1CASM0044 ,METERS        ,-122.472574
+      5.8 ,2021-12-21 ,2024-05-09 ,37.48032         ,"REDWOOD CITY 2.5 S, CA US"                           ,      0.5887 ,GHCND:US1CASM0045 ,METERS        ,-122.2099
+      3.4 ,2021-12-30 ,2024-05-06 ,37.56037         ,"SAN MATEO 0.1 S, CA US"                              ,      0.4028 ,GHCND:US1CASM0046 ,METERS        ,-122.31201
+     17.7 ,2023-01-01 ,2024-05-17 ,37.475356        ,"HALF MOON BAY 0.4 NNE, CA US"                        ,      0.6446 ,GHCND:US1CASM0047 ,METERS        ,-122.433688
+     11.6 ,2023-01-10 ,2024-06-12 ,37.575524        ,"BURLINGAME 1.5 SE, CA US"                            ,      0.7923 ,GHCND:US1CASM0048 ,METERS        ,-122.342599
+    122.8 ,2010-02-01 ,2021-05-21 ,38.0695          ,"BENICIA 0.2 SSW, CA US"                              ,      0.7843 ,GHCND:US1CASO0001 ,METERS        ,-122.1555
+     12.2 ,2010-12-01 ,2015-09-13 ,38.05758611      ,"BENICIA 1.2 SW, CA US"                               ,      0.5346 ,GHCND:US1CASO0002 ,METERS        ,-122.1679639
+     92.7 ,2011-01-01 ,2024-05-05 ,38.07528         ,"BENICIA 1.3 W, CA US"                                ,      0.5081 ,GHCND:US1CASO0003 ,METERS        ,-122.177778
+     75   ,2012-10-01 ,2024-05-05 ,38.086421        ,"BENICIA 1.0 N, CA US"                                ,      0.643  ,GHCND:US1CASO0006 ,METERS        ,-122.157043
+      2.7 ,2016-01-22 ,2024-05-15 ,38.056247        ,"BENICIA 1.3 SW, CA US"                               ,      0.1719 ,GHCND:US1CASO0010 ,METERS        ,-122.168771
+    141.7 ,2016-11-19 ,2017-11-17 ,38.1586723327637 ,"VALLEJO 5.8 NE, CA US"                               ,      1      ,GHCND:US1CASO0011 ,METERS        ,-122.17887878418
+    125   ,1957-10-01 ,1975-07-31 ,37.86667         ,"ALAMO 1 N, CA US"                                    ,      0.916  ,GHCND:USC00040064 ,METERS        ,-122.03333
+     94.5 ,1893-01-01 ,2024-04-30 ,37.8744          ,"BERKELEY, CA US"                                     ,      1      ,GHCND:USC00040693 ,METERS        ,-122.2605
+      3   ,1906-01-01 ,1978-01-31 ,37.58333         ,"BURLINGAME, CA US"                                   ,      0.5199 ,GHCND:USC00041206 ,METERS        ,-122.35
+    161.8 ,1956-01-01 ,1974-10-31 ,37.86667         ,"BURTON RANCH, CA US"                                 ,      0.9954 ,GHCND:USC00041216 ,METERS        ,-122.08333
+      6.1 ,1947-12-01 ,1950-03-31 ,37.98333         ,"CONCORD AIRPORT, CA US"                              ,      1      ,GHCND:USC00041960 ,METERS        ,-122.01667
+     78.9 ,1956-01-01 ,1957-04-30 ,37.95            ,"CONCORD 2 SE, CA US"                                 ,      1      ,GHCND:USC00041961 ,METERS        ,-122
+     59.4 ,1956-01-01 ,1974-12-31 ,37.96667         ,"CONCORD 3 E, CA US"                                  ,      0.9778 ,GHCND:USC00041962 ,METERS        ,-121.98333
+     12.2 ,1991-09-01 ,2019-02-28 ,37.9833          ,"CONCORD WASTEWATER PLANT, CA US"                     ,      1      ,GHCND:USC00041967 ,METERS        ,-122.0692
+      3   ,1918-01-01 ,1977-02-28 ,38.03333         ,"CROCKETT, CA US"                                     ,      0.993  ,GHCND:USC00042177 ,METERS        ,-122.21667
+      6.1 ,1955-11-01 ,1977-06-30 ,38.2             ,"DUTTONS LANDING, CA US"                              ,      1      ,GHCND:USC00042580 ,METERS        ,-122.3
+     11.6 ,1996-06-01 ,2024-06-11 ,37.5422          ,"FREMONT, CA US"                                      ,      1      ,GHCND:USC00043244 ,METERS        ,-122.0158
+    537.1 ,1943-07-01 ,1960-05-31 ,37.85            ,"ROUND TOP, CA US"                                    ,      0.9998 ,GHCND:USC00043652 ,METERS        ,-122.2
+      8.2 ,1939-07-01 ,2024-06-11 ,37.4725          ,"HALF MOON BAY, CA US"                                ,      1      ,GHCND:USC00043714 ,METERS        ,-122.4433
+      3   ,1955-05-01 ,1959-08-31 ,38.05            ,"HAMILTON AFB 1 E, CA US"                             ,      0.9419 ,GHCND:USC00043735 ,METERS        ,-122.5
+     39.3 ,1906-01-01 ,1930-02-28 ,37.683333        ,"HAYWARD, CA US"                                      ,      0.4583 ,GHCND:USC00043862 ,METERS        ,-122.083333
+    161.5 ,1948-07-01 ,1951-09-30 ,37.66667         ,"HAYWARD 4 ESE, CA US"                                ,      1      ,GHCND:USC00043863 ,METERS        ,-122
+     44.2 ,1902-01-01 ,2024-06-11 ,37.9566          ,"KENTFIELD, CA US"                                    ,      1      ,GHCND:USC00044500 ,METERS        ,-122.5447
+    164.9 ,1956-01-01 ,1977-06-30 ,37.91667         ,"LAFAYETTE 2 NNE, CA US"                              ,      0.9846 ,GHCND:USC00044633 ,METERS        ,-122.1
+    125   ,1956-01-01 ,1957-05-30 ,37.86667         ,"ALAMO 1 N, CA US"                                    ,      0.8242 ,GHCND:USC00045000 ,METERS        ,-122.03333
+     14.9 ,1961-01-01 ,1975-12-31 ,38.100278        ,"MARE ISLAND, CA US"                                  ,      0.9946 ,GHCND:USC00045333 ,METERS        ,-122.268611
+     70.1 ,1948-07-01 ,1951-09-30 ,37.97            ,"MARTINEZ 2 S, CA US"                                 ,      1      ,GHCND:USC00045371 ,METERS        ,-122.1275
+     78.9 ,1956-01-01 ,1975-09-30 ,37.96667         ,"MARTINEZ 3 SSE, CA US"                               ,      0.9663 ,GHCND:USC00045372 ,METERS        ,-122.1
+      7.9 ,1906-01-01 ,1969-12-31 ,38.01667         ,"MARTINEZ, CA US"                                     ,      0.5953 ,GHCND:USC00045377 ,METERS        ,-122.13333
+     12.2 ,1970-02-01 ,2019-08-31 ,38.0131          ,"MARTINEZ WATER PLANT, CA US"                         ,      1      ,GHCND:USC00045378 ,METERS        ,-122.1142
+    661.4 ,1952-01-01 ,2024-04-30 ,37.8792          ,"MOUNT DIABLO JUNCTION, CA US"                        ,      1      ,GHCND:USC00045915 ,METERS        ,-121.9303
+    446.5 ,1898-02-01 ,1951-09-30 ,37.9027          ,"MOUNT TAMALPAIS 2 SW, CA US"                         ,      0.2081 ,GHCND:USC00045995 ,METERS        ,-122.6033
+     67.1 ,1940-12-01 ,2024-04-30 ,37.8977          ,"MUIR WOODS, CA US"                                   ,      1      ,GHCND:USC00046027 ,METERS        ,-122.5688
+      3   ,1906-01-01 ,2021-01-15 ,37.5147          ,"NEWARK, CA US"                                       ,      1      ,GHCND:USC00046144 ,METERS        ,-122.0325
+     21.3 ,1893-03-01 ,1898-12-31 ,37.583333        ,"NILES, CA US"                                        ,      1      ,GHCND:USC00046201 ,METERS        ,-121.966667
+    121.9 ,1948-07-01 ,1951-09-30 ,38.13333         ,"NOVATO 8 WNW, CA US"                                 ,      0.7949 ,GHCND:USC00046290 ,METERS        ,-122.71667
+    134.1 ,1894-10-01 ,1958-07-31 ,37.78333         ,"OAKLAND, CA US"                                      ,      0.9596 ,GHCND:USC00046332 ,METERS        ,-122.16667
+     10.7 ,1949-01-01 ,1954-10-31 ,37.8             ,"OAKLAND CITY HALL, CA US"                            ,      0.9995 ,GHCND:USC00046333 ,METERS        ,-122.26667
+      9.1 ,1970-10-01 ,2024-06-11 ,37.7983          ,"OAKLAND MUSEUM, CA US"                               ,      1      ,GHCND:USC00046336 ,METERS        ,-122.2642
+    167.9 ,1944-08-01 ,1960-06-30 ,37.86667         ,"ORINDA BOWMAN, CA US"                                ,      1      ,GHCND:USC00046502 ,METERS        ,-122.16667
+     38.1 ,2000-11-01 ,2009-05-31 ,37.61028         ,"PACIFICA 2 S, CA US"                                 ,      0.9906 ,GHCND:USC00046598 ,METERS        ,-122.48417
+    144.8 ,1983-01-01 ,2012-11-30 ,37.59167         ,"PACIFICA 4 SSE, CA US"                               ,      1      ,GHCND:USC00046599 ,METERS        ,-122.47167
+     18   ,1906-01-01 ,1953-08-31 ,37.43333         ,"PALO ALTO, CA US"                                    ,      0.8017 ,GHCND:USC00046642 ,METERS        ,-122.16667
+      7.6 ,1953-01-01 ,2017-12-30 ,37.4436          ,"PALO ALTO, CA US"                                    ,      1      ,GHCND:USC00046646 ,METERS        ,-122.1402
+     14.9 ,1946-04-01 ,1975-09-30 ,38.01667         ,"PORT CHICAGO NAVAL D, CA US"                         ,      1      ,GHCND:USC00047070 ,METERS        ,-122.01667
+      9.4 ,1906-01-01 ,2024-06-11 ,37.4767          ,"REDWOOD CITY, CA US"                                 ,      1      ,GHCND:USC00047339 ,METERS        ,-122.2386
+      6.1 ,1950-01-01 ,2024-06-11 ,37.9191          ,"RICHMOND, CA US"                                     ,      1      ,GHCND:USC00047414 ,METERS        ,-122.3772
+      3   ,1955-08-01 ,1959-09-30 ,37.91667         ,"RICHMOND FIELD STATION, CA US"                       ,      0.9999 ,GHCND:USC00047416 ,METERS        ,-122.33333
+    189   ,1942-12-01 ,1981-07-31 ,37.83333         ,"SAINT MARYS COLLEGE, CA US"                          ,      1      ,GHCND:USC00047661 ,METERS        ,-122.1
+     75.9 ,1951-01-01 ,1957-07-31 ,37.76667         ,"SAN FRANCISCO CALIFORNIA ACADEMY OF SCIENCES, CA US" ,      0.9995 ,GHCND:USC00047765 ,METERS        ,-122.46667
+      2.4 ,1948-07-01 ,2024-05-14 ,37.728           ,"SAN FRANCISCO OCEANSIDE, CA US"                      ,      1      ,GHCND:USC00047767 ,METERS        ,-122.5052
+      6.1 ,1906-01-01 ,1978-12-31 ,37.53333         ,"SAN MATEO, CA US"                                    ,      0.7311 ,GHCND:USC00047864 ,METERS        ,-122.3
+     36.6 ,1894-01-01 ,2024-06-11 ,37.9983          ,"SAN RAFAEL CIVIC CENTER, CA US"                      ,      1      ,GHCND:USC00047880 ,METERS        ,-122.5372
+    107   ,1925-09-01 ,1972-12-31 ,37.4             ,"SEARSVILLE LAKE, CA US"                              ,      0.9824 ,GHCND:USC00048068 ,METERS        ,-122.23333
+    120.1 ,1948-07-01 ,2024-04-30 ,37.7719          ,"UPPER SAN LEANDRO FILTERS, CA US"                    ,      1      ,GHCND:USC00049185 ,METERS        ,-122.1675
+    103.9 ,1998-01-01 ,2024-06-10 ,38.1             ,"VALLEJO, CA US"                                      ,      0.6276 ,GHCND:USC00049219 ,METERS        ,-122.1869
+     36.9 ,1956-01-01 ,1973-08-31 ,37.95            ,"WALMAR SCHOOL, CA US"                                ,      0.9186 ,GHCND:USC00049420 ,METERS        ,-122.08333
+     74.7 ,1893-01-01 ,1974-05-31 ,37.88333         ,"WALNUT CREEK 2 ESE, CA US"                           ,      0.7646 ,GHCND:USC00049423 ,METERS        ,-122.03333
+     67.1 ,1948-07-01 ,1951-09-30 ,37.9             ,"WALNUT CREEK 2 ENE, CA US"                           ,      1      ,GHCND:USC00049426 ,METERS        ,-122.01667
+    121.9 ,1956-01-01 ,1977-06-30 ,37.9             ,"WALNUT CREEK 4 E, CA US"                             ,      0.9807 ,GHCND:USC00049427 ,METERS        ,-121.98333
+    115.8 ,1973-03-01 ,2015-01-31 ,37.4286          ,"WOODSIDE FIRE STATION 1, CA US"                      ,      1      ,GHCND:USC00049792 ,METERS        ,-122.2561
+    378   ,1997-01-01 ,2024-06-12 ,38.0281          ,"BARNABY CALIFORNIA, CA US"                           ,      0.9742 ,GHCND:USR0000CBAR ,METERS        ,-122.7022
+    457.2 ,2003-09-01 ,2024-06-12 ,38.0394          ,"BIG ROCK CALIFORNIA, CA US"                          ,      0.9801 ,GHCND:USR0000CBIR ,METERS        ,-122.57
+    487.7 ,1994-04-01 ,2024-06-12 ,37.95            ,"BLACK DIAMOND CALIFORNIA, CA US"                     ,      0.9886 ,GHCND:USR0000CBKD ,METERS        ,-121.8844
+    442   ,1994-04-01 ,2024-06-12 ,37.9442          ,"BRIONES CALIFORNIA, CA US"                           ,      0.9658 ,GHCND:USR0000CBRI ,METERS        ,-122.1178
+   1173.2 ,2000-07-01 ,2013-10-01 ,37.8817          ,"MOUNT DIABLO CALIFORNIA, CA US"                      ,      0.9998 ,GHCND:USR0000CMTD ,METERS        ,-121.9142
+    427.6 ,1992-06-01 ,2024-06-12 ,37.865           ,"OAKLAND NORTH CALIFORNIA, CA US"                     ,      0.9825 ,GHCND:USR0000COKN ,METERS        ,-122.2208
+    333.8 ,1992-08-01 ,2024-06-12 ,37.7861          ,"OAKLAND SOUTH CALIFORNIA, CA US"                     ,      0.9472 ,GHCND:USR0000COKS ,METERS        ,-122.1447
+    196.3 ,1997-05-01 ,2024-06-12 ,37.475           ,"PULGAS CALIFORNIA, CA US"                            ,      0.9559 ,GHCND:USR0000CPUL ,METERS        ,-122.2981
+    327.7 ,1998-10-01 ,2024-06-12 ,37.5625          ,"SPRING VALLEY CALIFORNIA, CA US"                     ,      0.9428 ,GHCND:USR0000CSVA ,METERS        ,-122.4364
+    536.4 ,1994-04-01 ,2024-06-12 ,37.8339          ,"LAS TRAMPAS CALIFORNIA, CA US"                       ,      0.9583 ,GHCND:USR0000CTRA ,METERS        ,-122.0669
+    426.7 ,2003-05-01 ,2024-06-12 ,37.9906          ,"WOODACRE CALIFORNIA, CA US"                          ,      0.8324 ,GHCND:USR0000CWOO ,METERS        ,-122.6447
+      0.9 ,1934-02-01 ,1970-12-31 ,38.067           ,"HAMILTON ARMY AIR FIELD, CA US"                      ,      0.9369 ,GHCND:USW00023211 ,METERS        ,-122.5
+      1.5 ,1948-01-01 ,2024-06-11 ,37.7178          ,"OAKLAND INTERNATIONAL AIRPORT, CA US"                ,      1      ,GHCND:USW00023230 ,METERS        ,-122.23301
+      3.2 ,1945-01-01 ,2024-06-12 ,37.61962         ,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US"          ,      1      ,GHCND:USW00023234 ,METERS        ,-122.36562
+      9.1 ,1945-01-01 ,2010-12-31 ,37.78333         ,"ALAMEDA NAS, CA US"                                  ,      1      ,GHCND:USW00023239 ,METERS        ,-122.31667
+      7   ,1999-06-01 ,2024-06-12 ,37.99165         ,"CONCORD BUCHANAN FIELD, CA US"                       ,      1      ,GHCND:USW00023254 ,METERS        ,-122.05268
+     45.7 ,1921-01-01 ,2024-06-10 ,37.7705          ,"SAN FRANCISCO DOWNTOWN, CA US"                       ,      1      ,GHCND:USW00023272 ,METERS        ,-122.4269
+      2.1 ,1949-01-01 ,1951-07-31 ,37.73333         ,"OAKLAND NAS, CA US"                                  ,      1      ,GHCND:USW00093211 ,METERS        ,-122.2
+      4.7 ,1998-05-01 ,2024-06-11 ,38.2075          ,"NAPA CO AIRPORT, CA US"                              ,      1      ,GHCND:USW00093227 ,METERS        ,-122.28041
+      9.6 ,1998-09-01 ,2024-06-12 ,37.65886         ,"HAYWARD AIR TERMINAL, CA US"                         ,      1      ,GHCND:USW00093228 ,METERS        ,-122.12116
+     67.4 ,1996-10-22 ,2024-06-13 ,39.495639        ,"BEALE AFB, CA US"                                    ,      0.95   ,NEXRAD:KBBX       ,METERS        ,-121.631611
+     43.8 ,1995-05-09 ,2024-06-13 ,38.501111        ,"SACRAMENTO, CA US"                                   ,      0.95   ,NEXRAD:KDAX       ,METERS        ,-121.677833
+   1082.1 ,1995-01-09 ,2024-06-13 ,37.155222        ,"SAN FRANCISCO, CA US"                                ,      0.95   ,NEXRAD:KMUX       ,METERS        ,-121.898444
+      1.2 ,2014-07-31 ,2024-06-13 ,38.15            ,"GNOSS FIELD AIRPORT, CA US"                          ,      1      ,WBAN:00135        ,METERS        ,-122.55
+     20.1 ,2009-07-17 ,2024-06-13 ,37.513           ,"HALF MOON BAY AIRPORT, CA US"                        ,      1      ,WBAN:00228        ,METERS        ,-122.501
+      1.5 ,1943-01-01 ,2024-06-13 ,37.7178          ,"OAKLAND INTERNATIONAL AIRPORT, CA US"                ,      0.93   ,WBAN:23230        ,METERS        ,-122.23301
+      3.2 ,1948-01-01 ,2024-06-13 ,37.61962         ,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US"          ,      1      ,WBAN:23234        ,METERS        ,-122.36562
+      9.1 ,1945-03-01 ,1997-02-01 ,37.78333         ,"ALAMEDA NAS, CA US"                                  ,      1      ,WBAN:23239        ,METERS        ,-122.31667
+      7   ,1969-01-01 ,2024-06-13 ,37.99165         ,"CONCORD BUCHANAN FIELD, CA US"                       ,      1      ,WBAN:23254        ,METERS        ,-122.05268
+     45.7 ,1945-01-01 ,2024-03-30 ,37.7705          ,"SAN FRANCISCO DOWNTOWN, CA US"                       ,      0.06   ,WBAN:23272        ,METERS        ,-122.4269
+      2.1 ,2005-06-19 ,2024-06-13 ,37.46667         ,"PALO ALTO, CA US"                                    ,      0.55   ,WBAN:23289        ,METERS        ,-122.11667
+      4.7 ,2000-01-01 ,2024-06-13 ,38.2075          ,"NAPA CO AIRPORT, CA US"                              ,      1      ,WBAN:93227        ,METERS        ,-122.28041
+      9.6 ,2000-01-01 ,2024-06-13 ,37.65886         ,"HAYWARD AIR TERMINAL, CA US"                         ,      1      ,WBAN:93228        ,METERS        ,-122.12116
+      1.5 ,2005-06-19 ,2024-06-13 ,37.51667         ,"SAN CARLOS AIRPORT, CA US"                           ,      1      ,WBAN:93231        ,METERS        ,-122.25

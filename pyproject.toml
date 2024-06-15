@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "01-census-api-pm"
+version = "0.1.0"
+description = ""
+authors = ["Jerrison Li <jerrisonli@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+graphviz = "^0.20.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

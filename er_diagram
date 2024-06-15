@@ -1,0 +1,14 @@
+// Entity Relationship Diagram
+digraph {
+	datasets [label="datasets
+uid (PK)
+id (FK)
+name
+datacoverage
+mindate
+maxdate"]
+	data_categories [label="data_categories
+id (PK)
+name"]
+	datasets -> data_categories [label="id (FK)"]
+}
